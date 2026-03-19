@@ -17,3 +17,6 @@ build/
 .coverage
 htmlcov/
 *.log
+
+# OMC 상태 파일
+.omc/
